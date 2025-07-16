@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4883&pause=1000&center=true&width=435&height=100&lines=Hello+Everyone+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4883&pause=1000&center=true&vCenter=true&width=435&height=100&lines=Hello+Everyone+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 
 
@@ -6,9 +6,10 @@
 
 
 
-<div align="center" >Welcome to my GitHub profile! I'm a passionate web developer with a zest for exploring new technologies.</div>
+<div align="center" >Welcome to my GitHub profile!</div>
 <h1 align="center">I'm Kaveesha Sandanuwan</h1>
-<h3 align="center">A passionate IT Student</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4883&pause=1000&color=41B65F&center=true&vCenter=true&width=435&height=100&lines=Passionate+IT+Student+%F0%9F%92%BB;+Exploring+the+Boundless+World+of+Technology)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaveesha-devs&label=Profile%20views&color=0e75b6&style=flat" alt="kaveesha-devs" /> </p>
 
