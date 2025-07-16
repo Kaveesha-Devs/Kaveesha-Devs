@@ -21,7 +21,7 @@
 
 - 📫 How to reach me *kaveeshasandanuwan@gmail.com*
 
-- ⚡ Fun fact *Call me Hera*
+- ⚡ Fun fact Call me *Hera*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
